@@ -1,4 +1,3 @@
-This project can be found on github [react-redux-boilerplate-code](https://github.com/NikilMunireddy/react-redux-boilerplate-code).
 
 ## Install using 
 
